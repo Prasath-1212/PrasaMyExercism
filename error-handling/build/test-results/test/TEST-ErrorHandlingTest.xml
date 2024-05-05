@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ErrorHandlingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-05T11:01:33" hostname="DESKTOP-T8BDIA2" time="0.086">
+  <properties/>
+  <testcase name="testThrowCustomCheckedExceptionWithDetailMessage()" classname="ErrorHandlingTest" time="0.086"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
